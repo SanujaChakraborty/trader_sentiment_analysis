@@ -1,3 +1,4 @@
+```
 # Trader Behavior Insights – Bitcoin Market Sentiment Analysis
 
 This project explores how market sentiment (Fear/Greed) affects trader performance using real trading data from Hyperliquid and sentiment data from the Bitcoin Fear–Greed Index.
@@ -54,3 +55,4 @@ Integrating sentiment indicators into algorithmic models could improve risk mana
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 Google Colab
 GitHub for version control
+```
